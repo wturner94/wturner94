@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wturner94
-- 👀 I’m interested in cycling/exercise, computers, and video games, specifically Old School RuneScape.
-- 💼 I currently work as a director for television news.
-- 🌱 I’m currently learning Python, hoping to get into the Data Analytics field.
+- 👋 Hi, I’m @wturner94!
+- 👀 I'm interested in cycling/exercise, computers, politics and all things media (especially video games, specifically Old School RuneScape).
+- 💼 I'm currently working as a broadcast director for television news
+- 🌱 I'm a newbie to Git, Python, SQL and all things Data Analytics, but hoping to expand my knowledge and skillset!
